@@ -1,2 +1,2 @@
-# rsudpraya
-catatan implementasi dan perubahan source pada khanza
+# RSUD PRAYA
+catatan implementasi dan perubahan source pada SIMRS Khanza
